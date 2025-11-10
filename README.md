@@ -1,3 +1,4 @@
+
 # Desafio RenovaBR – Análise de Dados Eleitorais
 
 Este repositório contém a solução desenvolvida para um desafio técnico do processo seletivo da RenovaBR. O objetivo do projeto é realizar a extração, limpeza, transformação e análise de dados referentes a duas eleições municipais (prefeitos e vereadores). A solução implementa um fluxo completo de dados (ETL + Análise) e apresenta insights objetivos derivados diretamente dos datasets utilizados.
@@ -66,5 +67,3 @@ EdioHub
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
-
-
